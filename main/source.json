@@ -11,19 +11,25 @@
       "name": "LiveTracker",
       "bundleIdentifier": "studio.magnusson.LiveTracker",
       "developerName": "Emil",
-      "version": "1.3",
+      "version": "1.3.3",
       "versionDate": "2026-02-28",
       "versionDescription": "Improved the settings page, added holiday pay",
       "localizedDescription": "Track earnings",
       "tintColor": "e22a41",
-      "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3/LiveTracker.ipa",
+      "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3.3/LiveTracker.ipa",
       "iconURL": "https://raw.githubusercontent.com/Candyyn/store/refs/heads/main/releases/icon.png",
       "size": 1492991,
       "versions": [
-
+{
+          "version": "1.3.3",
+          "date": "2026-02-28",
+          "localizedDescription": "Optimizations",
+          "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3.3/LiveTracker.ipa",
+          "size": 1492991
+        },
         {
           "version": "1.3",
-          "date": "2026-02-23",
+          "date": "2026-02-28",
           "localizedDescription": "Improved the settings page, added holiday pay",
           "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3/LiveTracker.ipa",
           "size": 1492991
