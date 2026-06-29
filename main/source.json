@@ -12,14 +12,21 @@
       "bundleIdentifier": "studio.magnusson.LiveTracker",
       "developerName": "Emil",
       "version": "1.3.7",
-      "versionDate": "2026-06-27",
+      "versionDate": "2026-06-28",
       "versionDescription": "Redesign",
       "localizedDescription": "Track earnings",
       "tintColor": "e22a41",
-      "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3.7/LiveTracker.ipa",
+      "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3.8/LiveTracker.ipa",
       "iconURL": "https://raw.githubusercontent.com/Candyyn/store/refs/heads/main/releases/icon.png",
       "size": 1291309,
       "versions": [
+        {
+          "version": "1.3.7",
+          "date": "2026-06-28",
+          "localizedDescription": "Large redesign",
+          "downloadURL": "https://github.com/Candyyn/store/raw/refs/heads/main/releases/v1.3.8/LiveTracker.ipa",
+          "size": 1291309
+        },
         {
           "version": "1.3.7",
           "date": "2026-06-27",
