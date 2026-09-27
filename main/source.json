@@ -9,7 +9,7 @@
   "apps": [
     {
       "name": "Intjänat",
-      "bundleIdentifier": "studio.magnusson.LiveTracker",
+      "bundleIdentifier": "studio.magnusson.LiveTrack",
       "developerName": "Emil",
       "version": "1.3.11",
       "versionDate": "2026-07-29",
